@@ -1,0 +1,13 @@
+{
+  "name": "dmd-generated-date",
+  "author": "Lloyd Brookes <75pound@gmail.com>",
+  "version": "0.0.0",
+  "description": "dmd-generated-date",
+  "repository": "https://github.com/75lb/dmd-generated-date.git",
+  "main": "./lib/dmd-generated-date.js",
+  "keywords": [],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {}
+}
