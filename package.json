@@ -1,10 +1,10 @@
 {
-  "name": "dmd-generated-date",
+  "name": "dmd-plugin-example",
   "author": "Lloyd Brookes <75pound@gmail.com>",
   "version": "0.0.0",
-  "description": "dmd-generated-date",
-  "repository": "https://github.com/75lb/dmd-generated-date.git",
-  "main": "./lib/dmd-generated-date.js",
+  "description": "dmd-plugin-example",
+  "repository": "https://github.com/75lb/dmd-plugin-example.git",
+  "main": "./lib/dmd-plugin-example.js",
   "keywords": [],
   "engines": {
     "node": ">=0.10.0"
