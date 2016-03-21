@@ -1,11 +1,11 @@
 {
-  "name": "dmd-plugin-example",
-  "author": "Lloyd Brookes <75pound@gmail.com>",
+  "name": "dmd-kramdown-plugin",
+  "author": "Calvin Sauer <calvin.j.sauer@gmail.com>",
   "version": "0.1.0",
-  "description": "dmd-plugin-example",
-  "repository": "https://github.com/75lb/dmd-plugin-example.git",
-  "main": "./lib/dmd-plugin-example.js",
-  "keywords": [],
+  "description": "Fixes some kramdown formatting issues in jsdoc2md",
+  "repository": "https://github.com/cjsauer/dmd-kramdown-plugin.git",
+  "main": "./lib/dmd-kramdown-plugin.js",
+  "keywords": ["dmd", "kramdown"],
   "engines": {
     "node": ">=0.10.0"
   },
