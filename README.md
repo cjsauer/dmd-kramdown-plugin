@@ -13,5 +13,5 @@ $ npm install dmd-kramdown-plugin --save-dev
 Then pass the plug-in name to `jsdoc2md` or `dmd`:
 
 ```
-$ jsdoc2md --plugin dmd-kramdown-plugin mySrcFiles/*.js
+$ jsdoc2md --plugin dmd-kramdown-plugin --src mySrcFiles/*.js
 ```
